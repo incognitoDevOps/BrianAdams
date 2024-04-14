@@ -85,23 +85,6 @@
 ---
 <!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanKoech&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanKoech&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-<table>
-  <tr>
-    <td>
-      <!--Stats-->
-      <img align="left" src="https://readme-stats.clckblog.space/api?username=RyanKoech&show_icons=true&count_private=true&theme=tokyonight"/>
-    </td>
-    <td>
-      <!--Streak-->
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanKoech&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
-   
-<p align="center">
-  <!--Languages -->
-  <img align="top" src="https://readme-stats.clckblog.space/api/top-langs/?username=RyanKoech&langs_count=8&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
-</p>
 
 <br />
 
