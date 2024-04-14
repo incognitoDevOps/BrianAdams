@@ -12,15 +12,15 @@
 <p align="center">
   
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com"/> -->
-<a href="mailto: sirryankoech@gmail.com">
+<a href="mailto: brianadem2@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/brian-adams-7164a7209/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/_ryan_dev">
+<!-- <a href="https://twitter.com/_ryan_dev">
  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
+</a> -->
 <!--  <a href="">
  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a> -->
@@ -114,7 +114,7 @@
 ---
 <p align="left">
   <h3 align="left">Till next time!</h3>
-  <img src ="./assets/retrocoding.gif" width="400px">
+  <img src ="./assets/retrocoding.gif" width="500px" height="500px">
 </p>  
 
 
